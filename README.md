@@ -22,7 +22,6 @@ LEDs. Zero external parts: everything is on the board.
 ## Hardware
 
 - Terasic DE10-Lite (Intel MAX 10 FPGA)
-- Nothing else. $0 build.
 
 ## Repo structure
 
