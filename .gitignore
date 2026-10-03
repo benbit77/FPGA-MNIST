@@ -1,0 +1,25 @@
+# Intel Quartus Prime build outputs — safe to ignore, all regenerable
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+
+# Quartus working files
+*.qws
+*.qsf.bak
+
+# Reports and summaries
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.done
+
+# Generated programming files
+*.sof
+*.pof
+*.jic
+
+# OS noise
+.DS_Store
+Thumbs.db
