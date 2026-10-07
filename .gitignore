@@ -23,3 +23,7 @@ greybox_tmp/
 # OS noise
 .DS_Store
 Thumbs.db
+
+# Python files to ignore
+venv/
+data/
