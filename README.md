@@ -6,7 +6,7 @@ and quantized.
 
 ## Status
 
-Phase 0: toolchain bring-up. Project is just getting started.
+Phase 1 done. The quantized model is trained and verified (96.73% float baseline, 96.69% integer-only, a 0.04 point drop). Next up is exporting the weights and building the RTL datapath.
 
 ## What this is
 
